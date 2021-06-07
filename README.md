@@ -11,11 +11,11 @@ A program doing conformational searching for acyclic alkanes on diamond framewor
 
 # CONTENTS
 
-1.Release Notes
+1. Release Notes
 
-2.Requirements and Setup
+2. Requirements and Setup
 
-3.Usage
+3. Usage
 
 
 #################################################################

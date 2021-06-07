@@ -41,9 +41,9 @@ All development and testing was done on Linux and MacOS
 Download the Diamond_energy.py script and direct the system path to its location in terminal. The program is run in terminal.
 
 # Correct Usage Argument
-Python Diamond_energy.py molecularInChI
+python Diamond_energy.py molecularInChI
 
-# Example - Heptane
+# Example Argument - Heptane
 python Diamond_energy.py "InChI=1S/C7H16/c1-3-5-7-6-4-2/h3-7H2,1-2H3"
 
 The program will automatically do conforamtional searching for heptane, and the searching process and outcome will be shown in terminal including conformation number, their corresponding dihedral angle values, their energys, the lowest energy conformation's number, the lowest energy conformation's dihedral angle value, the lowest energy conformation's coordinates, the number of conformations with accessible energies.

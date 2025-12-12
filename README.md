@@ -51,6 +51,15 @@ python Diamond_energy.py "InChI=1S/C7H16/c1-3-5-7-6-4-2/h3-7H2,1-2H3"
 
 The program will automatically do conforamtional searching for heptane, and the searching process and outcome will be shown in terminal including conformation number, their corresponding dihedral angle values, their energys, the lowest energy conformation's number, the lowest energy conformation's dihedral angle value, the lowest energy conformation's coordinates, the number of conformations with accessible energies.
 
+## Reference
+```bibtex
+@phdthesis{Wei2024DiamondEnergy,
+  title={*Diamond Energy* – a systematic conformation searching method},
+  author={Wei, Mengman},
+  year={2024},
+  school={University of Cambridge}
+  doi={https://doi.org/10.17863/CAM.109200}
+}
 
 
 
